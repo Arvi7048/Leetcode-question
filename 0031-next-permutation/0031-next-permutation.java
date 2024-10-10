@@ -1,5 +1,6 @@
 class Solution {
     public void nextPermutation(int[] nums) {
+       
         // Convert int[] to List<Integer>
         List<Integer> A = new ArrayList<>();
         for (int num : nums) {
@@ -50,4 +51,5 @@ class Solution {
         }
     
     }
+
 }
