@@ -7,6 +7,7 @@ leetcode dsa problems
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Arvi7048/Leetcode-question/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/Arvi7048/Leetcode-question/tree/master/0004-median-of-two-sorted-arrays) |
 | [0031-next-permutation](https://github.com/Arvi7048/Leetcode-question/tree/master/0031-next-permutation) |
 | [0053-maximum-subarray](https://github.com/Arvi7048/Leetcode-question/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/Arvi7048/Leetcode-question/tree/master/0075-sort-colors) |
@@ -38,6 +39,7 @@ leetcode dsa problems
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Arvi7048/Leetcode-question/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/Arvi7048/Leetcode-question/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Arvi7048/Leetcode-question/tree/master/0169-majority-element) |
 ## Counting
@@ -62,4 +64,8 @@ leetcode dsa problems
 |  |
 | ------- |
 | [0415-add-strings](https://github.com/Arvi7048/Leetcode-question/tree/master/0415-add-strings) |
+## Binary Search
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Arvi7048/Leetcode-question/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
