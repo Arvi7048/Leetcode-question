@@ -49,6 +49,7 @@ leetcode dsa problems
 ## Dynamic Programming
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/Arvi7048/Leetcode-question/tree/master/0010-regular-expression-matching) |
 | [0053-maximum-subarray](https://github.com/Arvi7048/Leetcode-question/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Arvi7048/Leetcode-question/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Simulation
@@ -63,9 +64,14 @@ leetcode dsa problems
 ## String
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/Arvi7048/Leetcode-question/tree/master/0010-regular-expression-matching) |
 | [0415-add-strings](https://github.com/Arvi7048/Leetcode-question/tree/master/0415-add-strings) |
 ## Binary Search
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Arvi7048/Leetcode-question/tree/master/0004-median-of-two-sorted-arrays) |
+## Recursion
+|  |
+| ------- |
+| [0010-regular-expression-matching](https://github.com/Arvi7048/Leetcode-question/tree/master/0010-regular-expression-matching) |
 <!---LeetCode Topics End-->
