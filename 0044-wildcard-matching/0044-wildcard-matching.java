@@ -1,35 +1,38 @@
 class Solution {
     public boolean isMatch(String s, String p) {
-         int m = s.length();
-        int n = p.length();
+         int sLen = s.length(), pLen = p.length();
+        int sIndex = 0, pIndex = 0;
+        int starIndex = -1, matchIndex = -1;
 
-        // dp[i][j] will be true if the first i characters in s match the first j characters in p
-        boolean[][] dp = new boolean[m + 1][n + 1];
-
-        // Empty string matches with empty pattern
-        dp[0][0] = true;
-
-        // Deal with patterns with '*', they can match an empty string
-        for (int j = 1; j <= n; j++) {
-            if (p.charAt(j - 1) == '*') {
-                dp[0][j] = dp[0][j - 1];
+        while (sIndex < sLen) {
+            // If characters match or pattern has '?', move both pointers
+            if (pIndex < pLen && (p.charAt(pIndex) == s.charAt(sIndex) || p.charAt(pIndex) == '?')) {
+                sIndex++;
+                pIndex++;
+            }
+            // If pattern contains '*', record its position and move pattern pointer
+            else if (pIndex < pLen && p.charAt(pIndex) == '*') {
+                starIndex = pIndex;
+                matchIndex = sIndex;
+                pIndex++;
+            }
+            // If last pattern pointer was '*', adjust the match and string pointers
+            else if (starIndex != -1) {
+                pIndex = starIndex + 1;
+                matchIndex++;
+                sIndex = matchIndex;
+            }
+            // No match found
+            else {
+                return false;
             }
         }
 
-        // Fill the dp table
-        for (int i = 1; i <= m; i++) {
-            for (int j = 1; j <= n; j++) {
-                if (p.charAt(j - 1) == s.charAt(i - 1) || p.charAt(j - 1) == '?') {
-                    // If characters match or pattern has '?', inherit the previous state
-                    dp[i][j] = dp[i - 1][j - 1];
-                } else if (p.charAt(j - 1) == '*') {
-                    // '*' can match an empty sequence (dp[i][j-1]) or any sequence (dp[i-1][j])
-                    dp[i][j] = dp[i][j - 1] || dp[i - 1][j];
-                }
-            }
+        // Check for remaining characters in the pattern, they must all be '*'
+        while (pIndex < pLen && p.charAt(pIndex) == '*') {
+            pIndex++;
         }
 
-        // The answer will be whether the entire string matches the entire pattern
-        return dp[m][n];
+        return pIndex == pLen;
     }
 }
