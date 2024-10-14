@@ -55,6 +55,7 @@ leetcode dsa problems
 | ------- |
 | [0010-regular-expression-matching](https://github.com/Arvi7048/Leetcode-question/tree/master/0010-regular-expression-matching) |
 | [0042-trapping-rain-water](https://github.com/Arvi7048/Leetcode-question/tree/master/0042-trapping-rain-water) |
+| [0044-wildcard-matching](https://github.com/Arvi7048/Leetcode-question/tree/master/0044-wildcard-matching) |
 | [0053-maximum-subarray](https://github.com/Arvi7048/Leetcode-question/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Arvi7048/Leetcode-question/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Simulation
@@ -71,6 +72,7 @@ leetcode dsa problems
 | ------- |
 | [0010-regular-expression-matching](https://github.com/Arvi7048/Leetcode-question/tree/master/0010-regular-expression-matching) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Arvi7048/Leetcode-question/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0044-wildcard-matching](https://github.com/Arvi7048/Leetcode-question/tree/master/0044-wildcard-matching) |
 | [0415-add-strings](https://github.com/Arvi7048/Leetcode-question/tree/master/0415-add-strings) |
 ## Binary Search
 |  |
@@ -81,6 +83,7 @@ leetcode dsa problems
 | ------- |
 | [0010-regular-expression-matching](https://github.com/Arvi7048/Leetcode-question/tree/master/0010-regular-expression-matching) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Arvi7048/Leetcode-question/tree/master/0025-reverse-nodes-in-k-group) |
+| [0044-wildcard-matching](https://github.com/Arvi7048/Leetcode-question/tree/master/0044-wildcard-matching) |
 ## Linked List
 |  |
 | ------- |
@@ -106,4 +109,8 @@ leetcode dsa problems
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Arvi7048/Leetcode-question/tree/master/0042-trapping-rain-water) |
+## Greedy
+|  |
+| ------- |
+| [0044-wildcard-matching](https://github.com/Arvi7048/Leetcode-question/tree/master/0044-wildcard-matching) |
 <!---LeetCode Topics End-->
