@@ -27,6 +27,7 @@ leetcode dsa problems
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Arvi7048/Leetcode-question/tree/master/0001-two-sum) |
+| [0012-integer-to-roman](https://github.com/Arvi7048/Leetcode-question/tree/master/0012-integer-to-roman) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Arvi7048/Leetcode-question/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0076-minimum-window-substring](https://github.com/Arvi7048/Leetcode-question/tree/master/0076-minimum-window-substring) |
 | [0169-majority-element](https://github.com/Arvi7048/Leetcode-question/tree/master/0169-majority-element) |
@@ -70,12 +71,14 @@ leetcode dsa problems
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/Arvi7048/Leetcode-question/tree/master/0012-integer-to-roman) |
 | [0066-plus-one](https://github.com/Arvi7048/Leetcode-question/tree/master/0066-plus-one) |
 | [0415-add-strings](https://github.com/Arvi7048/Leetcode-question/tree/master/0415-add-strings) |
 ## String
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/Arvi7048/Leetcode-question/tree/master/0010-regular-expression-matching) |
+| [0012-integer-to-roman](https://github.com/Arvi7048/Leetcode-question/tree/master/0012-integer-to-roman) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Arvi7048/Leetcode-question/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0044-wildcard-matching](https://github.com/Arvi7048/Leetcode-question/tree/master/0044-wildcard-matching) |
 | [0076-minimum-window-substring](https://github.com/Arvi7048/Leetcode-question/tree/master/0076-minimum-window-substring) |
