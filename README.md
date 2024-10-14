@@ -10,6 +10,7 @@ leetcode dsa problems
 | [0004-median-of-two-sorted-arrays](https://github.com/Arvi7048/Leetcode-question/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/Arvi7048/Leetcode-question/tree/master/0011-container-with-most-water) |
 | [0031-next-permutation](https://github.com/Arvi7048/Leetcode-question/tree/master/0031-next-permutation) |
+| [0041-first-missing-positive](https://github.com/Arvi7048/Leetcode-question/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/Arvi7048/Leetcode-question/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Arvi7048/Leetcode-question/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/Arvi7048/Leetcode-question/tree/master/0066-plus-one) |
@@ -29,6 +30,7 @@ leetcode dsa problems
 | [0001-two-sum](https://github.com/Arvi7048/Leetcode-question/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/Arvi7048/Leetcode-question/tree/master/0012-integer-to-roman) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Arvi7048/Leetcode-question/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0041-first-missing-positive](https://github.com/Arvi7048/Leetcode-question/tree/master/0041-first-missing-positive) |
 | [0076-minimum-window-substring](https://github.com/Arvi7048/Leetcode-question/tree/master/0076-minimum-window-substring) |
 | [0169-majority-element](https://github.com/Arvi7048/Leetcode-question/tree/master/0169-majority-element) |
 ## Two Pointers
