@@ -23,6 +23,7 @@ leetcode dsa problems
 | [0169-majority-element](https://github.com/Arvi7048/Leetcode-question/tree/master/0169-majority-element) |
 | [0485-max-consecutive-ones](https://github.com/Arvi7048/Leetcode-question/tree/master/0485-max-consecutive-ones) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Arvi7048/Leetcode-question/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Arvi7048/Leetcode-question/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -94,6 +95,7 @@ leetcode dsa problems
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Arvi7048/Leetcode-question/tree/master/0004-median-of-two-sorted-arrays) |
+| [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Arvi7048/Leetcode-question/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 ## Recursion
 |  |
 | ------- |
@@ -132,6 +134,7 @@ leetcode dsa problems
 | [0011-container-with-most-water](https://github.com/Arvi7048/Leetcode-question/tree/master/0011-container-with-most-water) |
 | [0044-wildcard-matching](https://github.com/Arvi7048/Leetcode-question/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/Arvi7048/Leetcode-question/tree/master/0045-jump-game-ii) |
+| [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Arvi7048/Leetcode-question/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 ## Backtracking
 |  |
 | ------- |
