@@ -107,6 +107,7 @@ leetcode dsa problems
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Arvi7048/Leetcode-question/tree/master/0023-merge-k-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Arvi7048/Leetcode-question/tree/master/0025-reverse-nodes-in-k-group) |
+| [0237-delete-node-in-a-linked-list](https://github.com/Arvi7048/Leetcode-question/tree/master/0237-delete-node-in-a-linked-list) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
