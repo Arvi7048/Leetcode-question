@@ -102,12 +102,14 @@ leetcode dsa problems
 | [0010-regular-expression-matching](https://github.com/Arvi7048/Leetcode-question/tree/master/0010-regular-expression-matching) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Arvi7048/Leetcode-question/tree/master/0025-reverse-nodes-in-k-group) |
 | [0044-wildcard-matching](https://github.com/Arvi7048/Leetcode-question/tree/master/0044-wildcard-matching) |
+| [0206-reverse-linked-list](https://github.com/Arvi7048/Leetcode-question/tree/master/0206-reverse-linked-list) |
 | [2573-remove-nodes-from-linked-list](https://github.com/Arvi7048/Leetcode-question/tree/master/2573-remove-nodes-from-linked-list) |
 ## Linked List
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Arvi7048/Leetcode-question/tree/master/0023-merge-k-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Arvi7048/Leetcode-question/tree/master/0025-reverse-nodes-in-k-group) |
+| [0206-reverse-linked-list](https://github.com/Arvi7048/Leetcode-question/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Arvi7048/Leetcode-question/tree/master/0237-delete-node-in-a-linked-list) |
 | [2573-remove-nodes-from-linked-list](https://github.com/Arvi7048/Leetcode-question/tree/master/2573-remove-nodes-from-linked-list) |
 ## Heap (Priority Queue)
