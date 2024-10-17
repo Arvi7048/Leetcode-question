@@ -20,6 +20,7 @@ leetcode dsa problems
 | [0075-sort-colors](https://github.com/Arvi7048/Leetcode-question/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Arvi7048/Leetcode-question/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Arvi7048/Leetcode-question/tree/master/0136-single-number) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Arvi7048/Leetcode-question/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Arvi7048/Leetcode-question/tree/master/0169-majority-element) |
 | [0485-max-consecutive-ones](https://github.com/Arvi7048/Leetcode-question/tree/master/0485-max-consecutive-ones) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Arvi7048/Leetcode-question/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -44,6 +45,7 @@ leetcode dsa problems
 | [0031-next-permutation](https://github.com/Arvi7048/Leetcode-question/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/Arvi7048/Leetcode-question/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Arvi7048/Leetcode-question/tree/master/0075-sort-colors) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Arvi7048/Leetcode-question/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Arvi7048/Leetcode-question/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Sorting
 |  |
@@ -95,6 +97,7 @@ leetcode dsa problems
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Arvi7048/Leetcode-question/tree/master/0004-median-of-two-sorted-arrays) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Arvi7048/Leetcode-question/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Arvi7048/Leetcode-question/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 ## Recursion
 |  |
