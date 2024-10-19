@@ -80,6 +80,7 @@ leetcode dsa problems
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Arvi7048/Leetcode-question/tree/master/0002-add-two-numbers) |
 | [0012-integer-to-roman](https://github.com/Arvi7048/Leetcode-question/tree/master/0012-integer-to-roman) |
 | [0066-plus-one](https://github.com/Arvi7048/Leetcode-question/tree/master/0066-plus-one) |
 | [0415-add-strings](https://github.com/Arvi7048/Leetcode-question/tree/master/0415-add-strings) |
@@ -102,6 +103,7 @@ leetcode dsa problems
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Arvi7048/Leetcode-question/tree/master/0002-add-two-numbers) |
 | [0010-regular-expression-matching](https://github.com/Arvi7048/Leetcode-question/tree/master/0010-regular-expression-matching) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Arvi7048/Leetcode-question/tree/master/0025-reverse-nodes-in-k-group) |
 | [0044-wildcard-matching](https://github.com/Arvi7048/Leetcode-question/tree/master/0044-wildcard-matching) |
@@ -110,6 +112,7 @@ leetcode dsa problems
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Arvi7048/Leetcode-question/tree/master/0002-add-two-numbers) |
 | [0023-merge-k-sorted-lists](https://github.com/Arvi7048/Leetcode-question/tree/master/0023-merge-k-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Arvi7048/Leetcode-question/tree/master/0025-reverse-nodes-in-k-group) |
 | [0206-reverse-linked-list](https://github.com/Arvi7048/Leetcode-question/tree/master/0206-reverse-linked-list) |
