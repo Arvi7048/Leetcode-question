@@ -88,6 +88,7 @@ leetcode dsa problems
 ## String
 |  |
 | ------- |
+| [0008-string-to-integer-atoi](https://github.com/Arvi7048/Leetcode-question/tree/master/0008-string-to-integer-atoi) |
 | [0010-regular-expression-matching](https://github.com/Arvi7048/Leetcode-question/tree/master/0010-regular-expression-matching) |
 | [0012-integer-to-roman](https://github.com/Arvi7048/Leetcode-question/tree/master/0012-integer-to-roman) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Arvi7048/Leetcode-question/tree/master/0030-substring-with-concatenation-of-all-words) |
