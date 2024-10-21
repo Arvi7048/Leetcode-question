@@ -83,6 +83,7 @@ leetcode dsa problems
 | ------- |
 | [0002-add-two-numbers](https://github.com/Arvi7048/Leetcode-question/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Arvi7048/Leetcode-question/tree/master/0007-reverse-integer) |
+| [0009-palindrome-number](https://github.com/Arvi7048/Leetcode-question/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/Arvi7048/Leetcode-question/tree/master/0012-integer-to-roman) |
 | [0066-plus-one](https://github.com/Arvi7048/Leetcode-question/tree/master/0066-plus-one) |
 | [0415-add-strings](https://github.com/Arvi7048/Leetcode-question/tree/master/0415-add-strings) |
