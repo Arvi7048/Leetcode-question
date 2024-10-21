@@ -97,6 +97,7 @@ leetcode dsa problems
 | [0010-regular-expression-matching](https://github.com/Arvi7048/Leetcode-question/tree/master/0010-regular-expression-matching) |
 | [0012-integer-to-roman](https://github.com/Arvi7048/Leetcode-question/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Arvi7048/Leetcode-question/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/Arvi7048/Leetcode-question/tree/master/0014-longest-common-prefix) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Arvi7048/Leetcode-question/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0038-count-and-say](https://github.com/Arvi7048/Leetcode-question/tree/master/0038-count-and-say) |
 | [0044-wildcard-matching](https://github.com/Arvi7048/Leetcode-question/tree/master/0044-wildcard-matching) |
@@ -164,4 +165,8 @@ leetcode dsa problems
 | ------- |
 | [0039-combination-sum](https://github.com/Arvi7048/Leetcode-question/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Arvi7048/Leetcode-question/tree/master/0040-combination-sum-ii) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Arvi7048/Leetcode-question/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
