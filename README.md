@@ -98,6 +98,7 @@ leetcode dsa problems
 | [0012-integer-to-roman](https://github.com/Arvi7048/Leetcode-question/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Arvi7048/Leetcode-question/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Arvi7048/Leetcode-question/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/Arvi7048/Leetcode-question/tree/master/0020-valid-parentheses) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Arvi7048/Leetcode-question/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0038-count-and-say](https://github.com/Arvi7048/Leetcode-question/tree/master/0038-count-and-say) |
 | [0044-wildcard-matching](https://github.com/Arvi7048/Leetcode-question/tree/master/0044-wildcard-matching) |
@@ -146,6 +147,7 @@ leetcode dsa problems
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Arvi7048/Leetcode-question/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Arvi7048/Leetcode-question/tree/master/0042-trapping-rain-water) |
 | [2573-remove-nodes-from-linked-list](https://github.com/Arvi7048/Leetcode-question/tree/master/2573-remove-nodes-from-linked-list) |
 ## Monotonic Stack
