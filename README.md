@@ -46,6 +46,7 @@ leetcode dsa problems
 | ------- |
 | [0011-container-with-most-water](https://github.com/Arvi7048/Leetcode-question/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/Arvi7048/Leetcode-question/tree/master/0027-remove-element) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Arvi7048/Leetcode-question/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/Arvi7048/Leetcode-question/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/Arvi7048/Leetcode-question/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Arvi7048/Leetcode-question/tree/master/0075-sort-colors) |
@@ -101,6 +102,7 @@ leetcode dsa problems
 | [0013-roman-to-integer](https://github.com/Arvi7048/Leetcode-question/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Arvi7048/Leetcode-question/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Arvi7048/Leetcode-question/tree/master/0020-valid-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Arvi7048/Leetcode-question/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Arvi7048/Leetcode-question/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0038-count-and-say](https://github.com/Arvi7048/Leetcode-question/tree/master/0038-count-and-say) |
 | [0044-wildcard-matching](https://github.com/Arvi7048/Leetcode-question/tree/master/0044-wildcard-matching) |
@@ -173,4 +175,8 @@ leetcode dsa problems
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Arvi7048/Leetcode-question/tree/master/0014-longest-common-prefix) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Arvi7048/Leetcode-question/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
