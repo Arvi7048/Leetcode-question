@@ -11,6 +11,7 @@ leetcode dsa problems
 | [0011-container-with-most-water](https://github.com/Arvi7048/Leetcode-question/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/Arvi7048/Leetcode-question/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/Arvi7048/Leetcode-question/tree/master/0031-next-permutation) |
+| [0035-search-insert-position](https://github.com/Arvi7048/Leetcode-question/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/Arvi7048/Leetcode-question/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Arvi7048/Leetcode-question/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/Arvi7048/Leetcode-question/tree/master/0041-first-missing-positive) |
@@ -112,6 +113,7 @@ leetcode dsa problems
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Arvi7048/Leetcode-question/tree/master/0004-median-of-two-sorted-arrays) |
+| [0035-search-insert-position](https://github.com/Arvi7048/Leetcode-question/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Arvi7048/Leetcode-question/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Arvi7048/Leetcode-question/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 ## Recursion
