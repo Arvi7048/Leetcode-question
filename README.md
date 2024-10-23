@@ -92,6 +92,7 @@ leetcode dsa problems
 | [0012-integer-to-roman](https://github.com/Arvi7048/Leetcode-question/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Arvi7048/Leetcode-question/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/Arvi7048/Leetcode-question/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/Arvi7048/Leetcode-question/tree/master/0069-sqrtx) |
 | [0415-add-strings](https://github.com/Arvi7048/Leetcode-question/tree/master/0415-add-strings) |
 ## String
 |  |
@@ -115,6 +116,7 @@ leetcode dsa problems
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Arvi7048/Leetcode-question/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/Arvi7048/Leetcode-question/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/Arvi7048/Leetcode-question/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Arvi7048/Leetcode-question/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Arvi7048/Leetcode-question/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 ## Recursion
