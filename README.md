@@ -107,6 +107,7 @@ leetcode dsa problems
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Arvi7048/Leetcode-question/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0038-count-and-say](https://github.com/Arvi7048/Leetcode-question/tree/master/0038-count-and-say) |
 | [0044-wildcard-matching](https://github.com/Arvi7048/Leetcode-question/tree/master/0044-wildcard-matching) |
+| [0058-length-of-last-word](https://github.com/Arvi7048/Leetcode-question/tree/master/0058-length-of-last-word) |
 | [0076-minimum-window-substring](https://github.com/Arvi7048/Leetcode-question/tree/master/0076-minimum-window-substring) |
 | [0415-add-strings](https://github.com/Arvi7048/Leetcode-question/tree/master/0415-add-strings) |
 ## Binary Search
