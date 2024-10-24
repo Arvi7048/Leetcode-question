@@ -25,6 +25,7 @@ leetcode dsa problems
 | [0136-single-number](https://github.com/Arvi7048/Leetcode-question/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Arvi7048/Leetcode-question/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Arvi7048/Leetcode-question/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/Arvi7048/Leetcode-question/tree/master/0217-contains-duplicate) |
 | [0485-max-consecutive-ones](https://github.com/Arvi7048/Leetcode-question/tree/master/0485-max-consecutive-ones) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Arvi7048/Leetcode-question/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Arvi7048/Leetcode-question/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
@@ -43,6 +44,7 @@ leetcode dsa problems
 | [0041-first-missing-positive](https://github.com/Arvi7048/Leetcode-question/tree/master/0041-first-missing-positive) |
 | [0076-minimum-window-substring](https://github.com/Arvi7048/Leetcode-question/tree/master/0076-minimum-window-substring) |
 | [0169-majority-element](https://github.com/Arvi7048/Leetcode-question/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/Arvi7048/Leetcode-question/tree/master/0217-contains-duplicate) |
 ## Two Pointers
 |  |
 | ------- |
@@ -62,6 +64,7 @@ leetcode dsa problems
 | [0075-sort-colors](https://github.com/Arvi7048/Leetcode-question/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Arvi7048/Leetcode-question/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Arvi7048/Leetcode-question/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/Arvi7048/Leetcode-question/tree/master/0217-contains-duplicate) |
 ## Divide and Conquer
 |  |
 | ------- |
