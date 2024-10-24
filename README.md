@@ -53,6 +53,7 @@ leetcode dsa problems
 | [0042-trapping-rain-water](https://github.com/Arvi7048/Leetcode-question/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Arvi7048/Leetcode-question/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Arvi7048/Leetcode-question/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/Arvi7048/Leetcode-question/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Arvi7048/Leetcode-question/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Arvi7048/Leetcode-question/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Sorting
@@ -113,6 +114,7 @@ leetcode dsa problems
 | [0044-wildcard-matching](https://github.com/Arvi7048/Leetcode-question/tree/master/0044-wildcard-matching) |
 | [0058-length-of-last-word](https://github.com/Arvi7048/Leetcode-question/tree/master/0058-length-of-last-word) |
 | [0076-minimum-window-substring](https://github.com/Arvi7048/Leetcode-question/tree/master/0076-minimum-window-substring) |
+| [0125-valid-palindrome](https://github.com/Arvi7048/Leetcode-question/tree/master/0125-valid-palindrome) |
 | [0415-add-strings](https://github.com/Arvi7048/Leetcode-question/tree/master/0415-add-strings) |
 ## Binary Search
 |  |
