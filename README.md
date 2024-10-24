@@ -20,6 +20,7 @@ leetcode dsa problems
 | [0053-maximum-subarray](https://github.com/Arvi7048/Leetcode-question/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/Arvi7048/Leetcode-question/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Arvi7048/Leetcode-question/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/Arvi7048/Leetcode-question/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Arvi7048/Leetcode-question/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Arvi7048/Leetcode-question/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Arvi7048/Leetcode-question/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -51,12 +52,14 @@ leetcode dsa problems
 | [0031-next-permutation](https://github.com/Arvi7048/Leetcode-question/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/Arvi7048/Leetcode-question/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Arvi7048/Leetcode-question/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/Arvi7048/Leetcode-question/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Arvi7048/Leetcode-question/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Arvi7048/Leetcode-question/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Sorting
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Arvi7048/Leetcode-question/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/Arvi7048/Leetcode-question/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Arvi7048/Leetcode-question/tree/master/0169-majority-element) |
 ## Divide and Conquer
 |  |
