@@ -19,6 +19,7 @@ leetcode dsa problems
 | [0045-jump-game-ii](https://github.com/Arvi7048/Leetcode-question/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/Arvi7048/Leetcode-question/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/Arvi7048/Leetcode-question/tree/master/0066-plus-one) |
+| [0073-set-matrix-zeroes](https://github.com/Arvi7048/Leetcode-question/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Arvi7048/Leetcode-question/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Arvi7048/Leetcode-question/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Arvi7048/Leetcode-question/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -43,6 +44,7 @@ leetcode dsa problems
 | [0013-roman-to-integer](https://github.com/Arvi7048/Leetcode-question/tree/master/0013-roman-to-integer) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Arvi7048/Leetcode-question/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0041-first-missing-positive](https://github.com/Arvi7048/Leetcode-question/tree/master/0041-first-missing-positive) |
+| [0073-set-matrix-zeroes](https://github.com/Arvi7048/Leetcode-question/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/Arvi7048/Leetcode-question/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/Arvi7048/Leetcode-question/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Arvi7048/Leetcode-question/tree/master/0169-majority-element) |
@@ -199,4 +201,8 @@ leetcode dsa problems
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Arvi7048/Leetcode-question/tree/master/0128-longest-consecutive-sequence) |
+## Matrix
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/Arvi7048/Leetcode-question/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
