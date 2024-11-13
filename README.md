@@ -22,6 +22,7 @@ leetcode dsa problems
 | [0075-sort-colors](https://github.com/Arvi7048/Leetcode-question/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Arvi7048/Leetcode-question/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Arvi7048/Leetcode-question/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/Arvi7048/Leetcode-question/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/Arvi7048/Leetcode-question/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Arvi7048/Leetcode-question/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Arvi7048/Leetcode-question/tree/master/0169-majority-element) |
@@ -43,6 +44,7 @@ leetcode dsa problems
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Arvi7048/Leetcode-question/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0041-first-missing-positive](https://github.com/Arvi7048/Leetcode-question/tree/master/0041-first-missing-positive) |
 | [0076-minimum-window-substring](https://github.com/Arvi7048/Leetcode-question/tree/master/0076-minimum-window-substring) |
+| [0128-longest-consecutive-sequence](https://github.com/Arvi7048/Leetcode-question/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Arvi7048/Leetcode-question/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Arvi7048/Leetcode-question/tree/master/0217-contains-duplicate) |
 ## Two Pointers
@@ -193,4 +195,8 @@ leetcode dsa problems
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Arvi7048/Leetcode-question/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Union Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Arvi7048/Leetcode-question/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
