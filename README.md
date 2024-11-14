@@ -19,6 +19,7 @@ leetcode dsa problems
 | [0045-jump-game-ii](https://github.com/Arvi7048/Leetcode-question/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/Arvi7048/Leetcode-question/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Arvi7048/Leetcode-question/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/Arvi7048/Leetcode-question/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/Arvi7048/Leetcode-question/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Arvi7048/Leetcode-question/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Arvi7048/Leetcode-question/tree/master/0075-sort-colors) |
@@ -93,6 +94,7 @@ leetcode dsa problems
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Arvi7048/Leetcode-question/tree/master/0054-spiral-matrix) |
 | [0415-add-strings](https://github.com/Arvi7048/Leetcode-question/tree/master/0415-add-strings) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Arvi7048/Leetcode-question/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Math
@@ -207,5 +209,6 @@ leetcode dsa problems
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Arvi7048/Leetcode-question/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/Arvi7048/Leetcode-question/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Arvi7048/Leetcode-question/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
