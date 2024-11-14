@@ -31,6 +31,7 @@ leetcode dsa problems
 | [0169-majority-element](https://github.com/Arvi7048/Leetcode-question/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Arvi7048/Leetcode-question/tree/master/0217-contains-duplicate) |
 | [0485-max-consecutive-ones](https://github.com/Arvi7048/Leetcode-question/tree/master/0485-max-consecutive-ones) |
+| [0560-subarray-sum-equals-k](https://github.com/Arvi7048/Leetcode-question/tree/master/0560-subarray-sum-equals-k) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Arvi7048/Leetcode-question/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Arvi7048/Leetcode-question/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 ## Bit Manipulation
@@ -51,6 +52,7 @@ leetcode dsa problems
 | [0128-longest-consecutive-sequence](https://github.com/Arvi7048/Leetcode-question/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Arvi7048/Leetcode-question/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Arvi7048/Leetcode-question/tree/master/0217-contains-duplicate) |
+| [0560-subarray-sum-equals-k](https://github.com/Arvi7048/Leetcode-question/tree/master/0560-subarray-sum-equals-k) |
 ## Two Pointers
 |  |
 | ------- |
@@ -211,4 +213,8 @@ leetcode dsa problems
 | [0048-rotate-image](https://github.com/Arvi7048/Leetcode-question/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Arvi7048/Leetcode-question/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Arvi7048/Leetcode-question/tree/master/0073-set-matrix-zeroes) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/Arvi7048/Leetcode-question/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
