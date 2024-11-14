@@ -32,6 +32,7 @@ leetcode dsa problems
 | [0217-contains-duplicate](https://github.com/Arvi7048/Leetcode-question/tree/master/0217-contains-duplicate) |
 | [0485-max-consecutive-ones](https://github.com/Arvi7048/Leetcode-question/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/Arvi7048/Leetcode-question/tree/master/0560-subarray-sum-equals-k) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/Arvi7048/Leetcode-question/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Arvi7048/Leetcode-question/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Arvi7048/Leetcode-question/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 ## Bit Manipulation
@@ -73,6 +74,7 @@ leetcode dsa problems
 | [0088-merge-sorted-array](https://github.com/Arvi7048/Leetcode-question/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Arvi7048/Leetcode-question/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Arvi7048/Leetcode-question/tree/master/0217-contains-duplicate) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/Arvi7048/Leetcode-question/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -136,6 +138,7 @@ leetcode dsa problems
 | [0035-search-insert-position](https://github.com/Arvi7048/Leetcode-question/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Arvi7048/Leetcode-question/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Arvi7048/Leetcode-question/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/Arvi7048/Leetcode-question/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Arvi7048/Leetcode-question/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 ## Recursion
 |  |
@@ -172,6 +175,7 @@ leetcode dsa problems
 | [0003-longest-substring-without-repeating-characters](https://github.com/Arvi7048/Leetcode-question/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Arvi7048/Leetcode-question/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0076-minimum-window-substring](https://github.com/Arvi7048/Leetcode-question/tree/master/0076-minimum-window-substring) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/Arvi7048/Leetcode-question/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Stack
 |  |
 | ------- |
@@ -189,6 +193,7 @@ leetcode dsa problems
 | [0011-container-with-most-water](https://github.com/Arvi7048/Leetcode-question/tree/master/0011-container-with-most-water) |
 | [0044-wildcard-matching](https://github.com/Arvi7048/Leetcode-question/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/Arvi7048/Leetcode-question/tree/master/0045-jump-game-ii) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/Arvi7048/Leetcode-question/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Arvi7048/Leetcode-question/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 ## Backtracking
 |  |
@@ -217,4 +222,5 @@ leetcode dsa problems
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Arvi7048/Leetcode-question/tree/master/0560-subarray-sum-equals-k) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/Arvi7048/Leetcode-question/tree/master/1966-frequency-of-the-most-frequent-element) |
 <!---LeetCode Topics End-->
