@@ -31,6 +31,7 @@ leetcode dsa problems
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Arvi7048/Leetcode-question/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Arvi7048/Leetcode-question/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Arvi7048/Leetcode-question/tree/master/0217-contains-duplicate) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Arvi7048/Leetcode-question/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Arvi7048/Leetcode-question/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/Arvi7048/Leetcode-question/tree/master/0560-subarray-sum-equals-k) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Arvi7048/Leetcode-question/tree/master/1966-frequency-of-the-most-frequent-element) |
@@ -54,6 +55,7 @@ leetcode dsa problems
 | [0128-longest-consecutive-sequence](https://github.com/Arvi7048/Leetcode-question/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Arvi7048/Leetcode-question/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Arvi7048/Leetcode-question/tree/master/0217-contains-duplicate) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Arvi7048/Leetcode-question/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Arvi7048/Leetcode-question/tree/master/0560-subarray-sum-equals-k) |
 ## Two Pointers
 |  |
