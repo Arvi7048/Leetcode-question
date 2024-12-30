@@ -40,6 +40,7 @@ leetcode dsa problems
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Arvi7048/Leetcode-question/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/Arvi7048/Leetcode-question/tree/master/0136-single-number) |
 ## Hash Table
 |  |
@@ -103,6 +104,7 @@ leetcode dsa problems
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Arvi7048/Leetcode-question/tree/master/0054-spiral-matrix) |
+| [0067-add-binary](https://github.com/Arvi7048/Leetcode-question/tree/master/0067-add-binary) |
 | [0415-add-strings](https://github.com/Arvi7048/Leetcode-question/tree/master/0415-add-strings) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Arvi7048/Leetcode-question/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Math
@@ -115,6 +117,7 @@ leetcode dsa problems
 | [0013-roman-to-integer](https://github.com/Arvi7048/Leetcode-question/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/Arvi7048/Leetcode-question/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Arvi7048/Leetcode-question/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/Arvi7048/Leetcode-question/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Arvi7048/Leetcode-question/tree/master/0069-sqrtx) |
 | [0415-add-strings](https://github.com/Arvi7048/Leetcode-question/tree/master/0415-add-strings) |
 ## String
@@ -132,6 +135,7 @@ leetcode dsa problems
 | [0038-count-and-say](https://github.com/Arvi7048/Leetcode-question/tree/master/0038-count-and-say) |
 | [0044-wildcard-matching](https://github.com/Arvi7048/Leetcode-question/tree/master/0044-wildcard-matching) |
 | [0058-length-of-last-word](https://github.com/Arvi7048/Leetcode-question/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/Arvi7048/Leetcode-question/tree/master/0067-add-binary) |
 | [0076-minimum-window-substring](https://github.com/Arvi7048/Leetcode-question/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/Arvi7048/Leetcode-question/tree/master/0125-valid-palindrome) |
 | [0415-add-strings](https://github.com/Arvi7048/Leetcode-question/tree/master/0415-add-strings) |
